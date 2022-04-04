@@ -1,0 +1,45 @@
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csprojResolveAssemblyReference.cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csproj.GenerateResource.Cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBV\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csprojResolveAssemblyReference.cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csproj.GenerateResource.Cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.History.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csproj.GenerateResource.Cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csprojResolveAssemblyReference.cache
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging - Copy\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.History.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.DayByDay.resources
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering h16\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe.config
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering h16\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Dropbox\IA Y-vei\Programmering h16\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe.config
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\bin\Debug\MouseAndKeyCounterBV.pdb
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csprojAssemblyReference.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.DayByDay.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.History.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csproj.GenerateResource.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.csproj.CoreCompileInputs.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.exe
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\MouseAndKeyCounterBVLogging\MouseAndKeyCounterBV\obj\Debug\MouseAndKeyCounterBV.pdb
